@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Lover Girl",
+  "base_artist": "Laufey",
+  "createdAt": "2026-03-27T09:13:44.333707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lover Girl (Man)",
+      "artist": "Sam Cooke",
+      "has_synced": false,
+      "path": "select/01_Lover_Girl_(Man)_Sam_Cooke.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lover Boy-Lover Girl",
+      "artist": "Lords of Acid",
+      "has_synced": false,
+      "path": "select/02_Lover_Boy-Lover_Girl_Lords_of_Acid.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lover Boy/Lover Girl",
+      "artist": "Lords of Acid",
+      "has_synced": false,
+      "path": "select/03_Lover_Boy_Lover_Girl_Lords_of_Acid.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Alisha Chinai",
+      "has_synced": true,
+      "path": "select/04_Lover_Girl_Alisha_Chinai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Bali Baby",
+      "has_synced": false,
+      "path": "select/05_Lover_Girl_Bali_Baby.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Kolohe Kai",
+      "has_synced": true,
+      "path": "select/06_Lover_Girl_Kolohe_Kai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Ryan Bingham",
+      "has_synced": true,
+      "path": "select/07_Lover_Girl_Ryan_Bingham.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Sarah Jaffe",
+      "has_synced": true,
+      "path": "select/08_Lover_Girl_Sarah_Jaffe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Tatiana Manaois",
+      "has_synced": true,
+      "path": "select/09_Lover_Girl_Tatiana_Manaois.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Aaron Frazer",
+      "has_synced": true,
+      "path": "select/10_Lover_Girl_Aaron_Frazer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Janiva Magness",
+      "has_synced": true,
+      "path": "select/11_Lover_Girl_Janiva_Magness.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Sam Cooke",
+      "has_synced": false,
+      "path": "select/12_Lover_Girl_Sam_Cooke.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Aaron Frazer",
+      "has_synced": true,
+      "path": "select/13_Lover_Girl_Aaron_Frazer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lover Girl | Tatiana Manaois (Official Music Video)",
+      "artist": "Tatiana Manaois",
+      "has_synced": true,
+      "path": "select/14_Lover_Girl___Tatiana_Manaois_(Official_Music_Video)_Tatiana_Manaois.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lover Girl",
+      "artist": "Tatiana Manaois",
+      "has_synced": true,
+      "path": "select/15_Lover_Girl_Tatiana_Manaois.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lover Girl (Man)  (Mono)",
+      "artist": "Sam Cooke",
+      "has_synced": true,
+      "path": "select/16_Lover_Girl_(Man)_(Mono)_Sam_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lover Girl (Live From Easy Eye Sound)",
+      "artist": "Aaron Frazer",
+      "has_synced": false,
+      "path": "select/17_Lover_Girl_(Live_From_Easy_Eye_Sound)_Aaron_Frazer.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lover Boy / Lover Girl (Stript)",
+      "artist": "Lords Of Acid",
+      "has_synced": false,
+      "path": "select/18_Lover_Boy___Lover_Girl_(Stript)_Lords_Of_Acid.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lover Girl",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Lover_Girl_Laufey.txt"
+    }
+  ]
+}
